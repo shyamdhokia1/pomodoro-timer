@@ -4,9 +4,7 @@ An elegant pomodoro timer (25+5 Clock) built in React.
 
 ### [Check it out here -> pomodoro-timer.mercuryred.duckdns.org](https://pomodoro-timer.mercuryred.duckdns.org/)
 
-![Uploading image.png…]()
-
-
+![image](https://github.com/shyamdhokia1/pomodoro-timer/assets/92919658/486708c0-db87-48c5-a797-a736f5867112)
 
 ## Technologies
 - **React**
